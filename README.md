@@ -18,4 +18,4 @@ When you launch the main file, it will bring up a console, this is where people 
 This project isn't even done yet. So give me time please!
 
 # Can I edit this or fork this?
-Of course, I use PyCharm to edit everything, so I would also suggest using PyCharm also.
+Of course.
